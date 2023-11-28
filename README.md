@@ -1,4 +1,4 @@
-<meta content='0; url =  https://mez.ink/watch_full_videos_here' http-equiv='refresh'/>
+
 
 
 <!DOCTYPE html>
@@ -6,6 +6,8 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta content='0; url =  https://mez.ink/watch_full_videos_here' http-equiv='refresh'/>
 
         <title>Not Found</title>
 
